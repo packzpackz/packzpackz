@@ -1,0 +1,27 @@
+<packzpackz> - Software Engineering Portfolio 🚀
+
+Introduction 🌟
+
+Welcome to my GitHub repository! I'm princewill okube, a passionate first-year computer science student 👨‍💻 aspiring to build a successful career in software engineering. This repository serves as a showcase of my journey in the world of programming, featuring various projects and assignments I've worked on during my academic journey.
+
+About Me 🎓
+
+Name: Princewill Okube
+University: City Unviersity of London
+Major: Computer Science
+Year: First Year
+Goals 🚧
+
+My primary goal is to learn and grow as a software engineer. I'm eager to collaborate with other developers, contribute to open-source projects, and gain valuable experience in different aspects of software development. This repository is a testament to my dedication and progress as I navigate through the challenges and excitement of computer science.
+
+How to Use 📚
+
+If any of the projects catch your interest, feel free to explore the code and documentation. Each project folder contains detailed instructions on how to set up and run the application locally.
+
+Collaboration 🤝
+
+I am open to collaboration and feedback. If you have any suggestions, found a bug, or want to work together on a project, please don't hesitate to reach out. Your input is highly appreciated!
+
+I would like to express my gratitude to the supportive programming community, my professors, and fellow students who have inspired and guided me in this exciting journey.
+
+Thank you for visiting my GitHub repository. I look forward to connecting with you and exploring the vast and ever-evolving world of software engineering together! 🌐
